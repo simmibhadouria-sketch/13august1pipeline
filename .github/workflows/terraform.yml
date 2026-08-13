@@ -3,7 +3,7 @@ name: Terraform Azure Pipeline
 on:
   push:
     branches:
-      - features/pipeline
+      - main
 
 jobs:
   terraform:
