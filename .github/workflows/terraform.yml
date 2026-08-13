@@ -23,7 +23,7 @@ jobs:
           client-id: 3b912ffd-594c-4b81-a37b-dae19e9bc0c9
           tenant-id: fde3126b-b5b9-4d9e-ab0c-f949118194f2
           subscription-id: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
-          client-secret: 3LW8Q~D6JxomR.pO2pt4nQy8wzZ18DFGcdoQHc4_
+          client-secret: e7432041-edd5-4b9d-bd9d-0e1d12ae874e
 
       - name: Check Azure Login
         run: |
