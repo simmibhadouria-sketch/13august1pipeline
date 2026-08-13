@@ -7,6 +7,10 @@ rgs = {
         name = "sony"
         location = "centralindia"
     }
+     rg3 = {
+        name = "ifb"
+        location = "westeurope"
+    }
 }
 storages= {
     s1 = {
